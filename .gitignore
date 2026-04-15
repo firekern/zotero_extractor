@@ -1,10 +1,9 @@
-# Python-generated files
+.env
+credentials/service_account.json
+data/*.csv
 __pycache__/
-*.py[oc]
-build/
+*.pyc
+.venv/
 dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
+*.egg-info/
+.claude
